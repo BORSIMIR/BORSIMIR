@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core MVC and DBeaver**  
-- 💬 Ask me about **PHP, JavaScript, HTML/CSS/Bootstrap, and ASP.NET Core MVC**  
+- 💬 Ask me about **PHP, JavaScript, HTML/CSS/Bootstrap, SQL and ASP.NET Core MVC**  
 - 👨‍💻 How to reach me: **daleabila003@gmail.com**  
 
 ---

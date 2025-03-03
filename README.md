@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **ASP.NET Core MVC and DBeaver**  
 - 💬 Ask me about **PHP, JavaScript, HTML/CSS/Bootstrap, SQL and ASP.NET Core MVC**  
 - 👨‍💻 How to reach me: **daleabila003@gmail.com**
-- 👨‍💻 All of my projects are available at: http://daleabilaportfolio.infinityfreeapp.com
 
 ---
 

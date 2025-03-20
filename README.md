@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dale Andrew Abila</h1>
 <h3 align="center">A passionate Full Stack Developer from the Philippines</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core MVC and DBeaver**  
-- 💬 Ask me about **PHP, JavaScript, HTML/CSS/Bootstrap, SQL and ASP.NET Core MVC**  
+- 🌱 I’m currently learning **ASP.NET Core MVC 5 and DBeaver**  
+- 💬 Ask me about **PHP, JavaScript, HTML/CSS/Bootstrap, SQL and ASP.NET Core MVC 5**  
 - 👨‍💻 How to reach me: **daleabila003@gmail.com**
 
 ---

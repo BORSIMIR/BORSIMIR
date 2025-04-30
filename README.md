@@ -66,6 +66,9 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
   </a>
+   <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer"> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Diagrams.net_Logo.svg" alt="draw.io" width="40" height="40"/> 
+   </a> 
 </p>
 
 ---

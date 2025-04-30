@@ -67,8 +67,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
   </a>
    <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drawio/drawio-original.png" alt="draw.io" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drawio/drawio-original.svg" alt="draw.io" width="40" height="40"/>
   </a>
+
 
 </p>
 

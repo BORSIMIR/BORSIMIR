@@ -85,38 +85,10 @@ const dale = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borsimir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=FFFFFF" alt="Top Languages" height="170"/>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borsimir&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+
+
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🚀 Featured Projects
-
-<table>
-
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-**Professional Showcase Platform**
-
-- 🔗 [View Live](http://daleabilaportfolio.infinityfreeapp.com/)
-
-</td>
-<td width="50%">
-
-### 📦 More Projects Coming Soon
-**Always Building, Always Learning**
-
-- 🔨 Open to collaborations
-- 💡 Exploring new technologies
-- 🌟 Creating innovative solutions
-- 📬 Let's connect!
-
-</td>
-</tr>
-</table>
 
 <br>
 

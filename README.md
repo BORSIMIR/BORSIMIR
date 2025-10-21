@@ -1,94 +1,162 @@
-<h1 align="center">Hi 👋, I'm Dale Andrew Abila</h1>
-<h3 align="center">A passionate Full Stack Developer from the Philippines</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **ASP.NET Core MVC 5 and DBeaver**  
-- 💬 Ask me about **PHP, JavaScript, HTML/CSS/Bootstrap, SQL and ASP.NET Core MVC 5**  
-- 👨‍💻 How to reach me: **daleabila003@gmail.com**
-- 🌐 My Website: **http://daleabilaportfolio.infinityfreeapp.com/**
----
+# 👋 Hello, I'm Dale Andrew Abila
 
-### Connect with me:
-<p align="left">
-  <!-- Add social media links/icons here if needed -->
-</p>
-
----
-
-### 🚀 Languages and Tools:
-
-#### 🎨 Frontend:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  </a>
-</p>
-
-#### 🛠️ Backend:
-<p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-
-</p>
-
-#### 🐄️ Database:
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png" alt="DBeaver" width="40" height="40"/>
-  </a>
-
-</p>
-
-#### 🎨 Other Tools:
-<p align="left">
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" alt="draw.io" width="40" height="40"/>
-  </a>
-
-
-
-
-</p>
-
----
-
-### 📊 GitHub Stats:
+### 💻 Full Stack Developer • Systems Developer
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borsimir&show_icons=true&locale=en&layout=compact" alt="borsimir" />
+  <a href="mailto:daleabila003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="http://daleabilaportfolio.infinityfreeapp.com/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/borsimir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=borsimir&show_icons=true&locale=en" alt="borsimir" />
+<img src="https://komarev.com/ghpvc/?username=borsimir&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🧠 About Me
+
+```javascript
+const dale = {
+    location: "📍 Philippines",
+    currentFocus: "ASP.NET Core MVC 5 & Database Architecture",
+    expertise: ["Full Stack Development", "Enterprise Systems", "Clean Architecture"],
+    passion: "Building scalable solutions that make sense",
+    motto: "Code is poetry written in logic"
+};
+```
+
+- 🔭 Building **enterprise-grade web systems** with clean UI and scalable backend architecture
+- 🌱 Currently mastering **ASP.NET Core MVC 5** and **DBeaver**
+- 💡 Specialized in **PHP, JavaScript, Bootstrap, SQL**, and **modern web frameworks**
+- 🎯 Focused on creating intuitive interfaces backed by robust system design
+- ⚡ Fun fact: I believe great code shouldn't need extensive documentation
+
+<br>
+
+<div align="center">
+
+## 🛠️ Technology Arsenal
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" height="50"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="50"/>
 </p>
 
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs" height="50"/>
+</p>
+
+### Database Management
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" height="50"/>
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,ps,figma" height="50"/>
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="50"/>
+</p>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=borsimir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=borsimir&theme=tokyonight&hide_border=true&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borsimir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=FFFFFF" alt="Top Languages" height="170"/>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portfolio
+**Professional Showcase Platform**
+
+- 🔗 [View Live](http://daleabilaportfolio.infinityfreeapp.com/)
+
+</td>
+<td width="50%">
+
+### 📦 More Projects Coming Soon
+**Always Building, Always Learning**
+
+- 🔨 Open to collaborations
+- 💡 Exploring new technologies
+- 🌟 Creating innovative solutions
+- 📬 Let's connect!
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💭 Developer Philosophy
+
+> *"Code is like humor — when you have to explain it, it's bad."*
+> 
+> Building systems that don't just work — they **make sense.**
+
+<br>
+
+## 🤝 Let's Connect & Collaborate
+
+<p>
+I'm always open to interesting projects, freelance opportunities, and system development consulting.
+<br><br>
+<strong>Whether you need a robust backend, an elegant frontend, or a complete system architecture—</strong>
+<br>
+<strong>let's build something amazing together! 🚀</strong>
+</p>
+
+<p>
+  <a href="mailto:daleabila003@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="http://daleabilaportfolio.infinityfreeapp.com/">
+    <img src="https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;System+Architect;AI-Enhanced+Problem+Solver;Clean+Code+Advocate;Enterprise+Solutions+Builder" alt="Typing Animation" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+
+</div>

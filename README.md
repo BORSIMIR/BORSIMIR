@@ -66,7 +66,7 @@ const dale = {
 
 ### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,ps,figma" height="50"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,ps" height="50"/>
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="50"/>
 </p>
 

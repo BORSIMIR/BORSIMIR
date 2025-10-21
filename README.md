@@ -106,21 +106,23 @@ console.log(`${daleAbila.role} | Crafting digital excellence since...`);
 
 ## 💭 Developer Philosophy
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-### *"Good architecture is invisible - until something breaks."*
+### *"Code is like humor — when you have to explain it, it's bad."*
 
-Building systems that don't just **work** - they **make sense**.
+Building systems that don't just **work** — they **make sense**.
 
 **Clean architecture** • **Intuitive design** • **Scalable solutions**
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
----
+</div>
 
 <div align="center">
 
 ## 🤝 Let's Build Something Amazing
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 I'm passionate about creating **robust backends**, **elegant frontends**, and **complete system architectures** that drive real business value.
 

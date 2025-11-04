@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER WITH PARTICLE EFFECTS -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dale%20Andrew%20Abila&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38& &descAlignY=55&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dale%20Andrew%20Abila&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Architect&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- ANIMATED TYPING EFFECT -->
 <picture>

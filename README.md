@@ -1,190 +1,257 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dale%20Andrew%20Abila&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Integration%20%26%20Automation%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer&descAlignY=58&descSize=17"
-  width="100%"
-/>
+<!-- DYNAMIC HEADER WITH PARTICLE EFFECTS -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dale%20Andrew%20Abila&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-### Building practical AI-assisted business systems, backend integrations, and workflow automation.
+<!-- ANIMATED TYPING EFFECT -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Architecting+Tomorrow's+Digital+Solutions;Clean+Code+%E2%80%A2+Scalable+Systems+%E2%80%A2+Innovative+Design">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Architecting+Tomorrow's+Digital+Solutions;Clean+Code+%E2%80%A2+Scalable+Systems+%E2%80%A2+Innovative+Design" alt="Typing Animation">
+</picture>
 
+<br>
+
+<!-- GLASSMORPHIC CONTACT BADGES -->
 <p>
   <a href="mailto:daleabila003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://dale-abila-portfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/dale-andrew-abila-242924234/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/borsimir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=borsimir&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
 
----
-
-## 👋 About Me
-
-I'm **Dale Andrew Abila**, an **AI Integration & Automation Engineer** with a strong **Full Stack .NET** engineering background.
-
-I have **3 years of software engineering experience** building enterprise business systems, backend integrations, workflow automation, and AI-assisted applications.
-
-My current work focuses on integrating AI capabilities into real business workflows using technologies such as **ASP.NET Core, C#, Python/FastAPI, SQL Server, REST APIs, local LLMs, and OpenAI-compatible model services**.
-
-I enjoy working on the full engineering path behind AI-enabled systems:
-
-**Business Data → Backend APIs → Authentication & Authorization → AI Processing → Validation → Human Review → Application UI**
-
----
-
-## 🤖 Current Focus
-
-- AI and LLM integration for business applications
-- Workflow and process automation
-- CRM-aware AI processing
-- Structured LLM outputs and validation
-- Human-in-the-loop AI workflows
-- Secure backend and API integration
-- Local / self-hosted AI experimentation
-- ASP.NET Core and enterprise application development
-
----
-
-## 💼 Professional Engineering Work
-
-### AI-Assisted Business Workflows
-
-At **Sheds n Homes**, I work on AI-assisted functionality around ShedAdmin and ShedAdminAgents.
-
-Recent completed work includes:
-
-- AI-assisted Sales email processing
-- Business-relevance classification
-- CRM-aware email categorization and summarization
-- Customer, Enquiry, and Project context retrieval
-- Secure ShedAdmin ↔ ShedAdminAgents REST API integration
-- Structured AI output validation and deterministic fallback handling
-- Gmail ingestion and background processing
-- Authorization improvements for mailbox workflows
-- Local end-to-end validation through staff review
-
-I have also evaluated **local LLM runtimes and multi-agent orchestration** in isolated sandbox environments for possible future automation.
-
-> Professional/company implementations are described only at a high level. Private source code, credentials, customer data, and internal infrastructure are not published here.
-
-### Enterprise .NET Systems
-
-Previously, I architected and maintained **BTP_OneDB**, a centralized ASP.NET Core MVC and SQL Server business platform supporting multiple departments.
-
-Highlights:
-
-- 4 major modules
-- 25+ sub-modules
-- 50+ T-SQL stored procedures
-- 20+ core database tables
-- Authentication and role-based access
-- Procurement and approval workflows
-- Inventory and warehouse processes
-- Attendance and barcode workflows
-- Equipment calibration processes
-- Scheduled alerts and automated notifications
-
----
-
-## 🧠 AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Automation-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Structured_Outputs-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Context_Engineering-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Human--in--the--Loop-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LM_Studio-111827?style=flat-square" />
-</p>
-
----
-
-## ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,php,laravel" />
-</p>
-
-**ASP.NET Core · C# · ASP.NET MVC · Web API · Entity Framework Core · LINQ · Razor · Python · FastAPI · PHP · Laravel · REST APIs**
-
----
-
-## 🗄️ Data & Integration
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-**SQL Server · T-SQL · Stored Procedures · Query Optimization · MySQL · Gmail API · ASP.NET Identity · RBAC · Authentication & Authorization**
-
----
-
-## 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" />
-</p>
-
-**HTML5 · CSS3 · Bootstrap · JavaScript · jQuery · AJAX · JSON · jqGrid · Select2**
-
----
-
-## 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker" />
-</p>
-
-**Visual Studio · VS Code · Git · GitHub · Gitea · Docker · WSL · IIS · Hyper-V**
-
----
-
-## 🚀 What I'm Interested In
-
-I'm particularly interested in opportunities involving:
-
-**AI Integration · Applied AI · AI Automation · Backend Engineering · LLM-enabled Business Systems · Systems Integration · Full Stack .NET Development**
-
-My strongest value is combining traditional software engineering with modern AI capabilities — building the application, database, APIs, security boundaries, automation, and AI integration around a real business workflow.
-
----
-
-## 📊 GitHub
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BORSIMIR&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-  height="150"
-/>
+## ⚡ CORE FOCUS AREAS
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80px"><br>
+<sub><b>Enterprise Systems</b></sub><br>
+<sub>Scalable Architecture</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80px"><br>
+<sub><b>Database Design</b></sub><br>
+<sub>Optimized Schemas</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80px"><br>
+<sub><b>Backend Power</b></sub><br>
+<sub>ASP.NET Core MVC</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80px"><br>
+<sub><b>Clean Code</b></sub><br>
+<sub>Maintainable Systems</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📫 Connect
+<div align="center">
+
+## 🔮 TECHNOLOGY ARSENAL
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+### 「 FRONTEND MASTERY 」
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" height="50"/>
+</p>
+
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=black" height="35"/>
+<img src="https://img.shields.io/badge/Responsive_Design-Expert-00D9FF?style=for-the-badge&logoColor=white&labelColor=black" height="35"/>
+
+### 「 BACKEND DOMINANCE 」
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel" height="50"/>
+</p>
+
+### 「 DATABASE EXPERTISE 」
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=black" height="50"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white&labelColor=black" height="50"/>
+</p>
+
+<img src="https://img.shields.io/badge/Schema_Design-Master-00D9FF?style=for-the-badge&logoColor=white&labelColor=black" height="35"/>
+<img src="https://img.shields.io/badge/Query_Optimization-Expert-FF6384?style=for-the-badge&logoColor=white&labelColor=black" height="35"/>
+
+### 「 DEVELOPMENT ECOSYSTEM 」
+
+<p>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,sublime,ps" height="50"/>
+</p>
+
+<img src="https://img.shields.io/badge/Draw.io-System_Design-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&labelColor=black" height="35"/>
+<img src="https://img.shields.io/badge/Agile_Methodology-Practitioner-7F3FBF?style=for-the-badge&logoColor=white&labelColor=black" height="35"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 📊 GITHUB ANALYTICS DASHBOARD
+
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borsimir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10&hide=jupyter%20notebook&custom_title=💻+Language+Proficiency" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=borsimir&theme=radical&utcOffset=8" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=borsimir&custom_title=📈+Contribution+Timeline&bg_color=0D1117&color=6C63FF&line=00D9FF&point=FF6384&area=true&hide_border=true&theme=react-dark" width="98%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💎 FEATURED EXPERTISE
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🏗️ Architecture
+```yaml
+Pattern: Clean Architecture
+Principles: SOLID, DRY, KISS
+Structure: Layered Systems
+Focus: Maintainability
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 Design
+```yaml
+Approach: User-Centric
+Style: Modern & Responsive
+Tools: Figma, Draw.io
+Philosophy: Form + Function
+```
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ Development
+```yaml
+Method: Agile & Iterative
+Testing: Comprehensive
+Deployment: CI/CD Ready
+Quality: Production-Grade
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+
+<br>
+
+### ✨ "Great software isn't built - it's architected, crafted, and refined."
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 LET'S BUILD SOMETHING EXTRAORDINARY
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80"><br>
+<sub><b>Freelance Projects</b></sub><br>
+<sub>Custom Development</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"><br>
+<sub><b>System Architecture</b></sub><br>
+<sub>Enterprise Solutions</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80"><br>
+<sub><b>Collaboration</b></sub><br>
+<sub>Open Source & Teams</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎯 OPEN TO OPPORTUNITIES
+
+**🚀 Full Stack Development** • **🏢 Enterprise Systems** • **🔧 Technical Consulting**  
+**💡 System Architecture** • **🌟 Collaborative Innovation** • **📈 Scalable Solutions**
+
+<br>
+
+<p>
+  <a href="mailto:daleabila003@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email" height="45"/>
+  </a>
+  <a href="http://daleabilaportfolio.infinityfreeapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black" alt="Portfolio" height="45"/>
+  </a>
+  <a href="https://github.com/borsimir" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub" height="45"/>
+  </a>
+</p>
+
+<br>
+
+### 💬 *"From concept to deployment, let's architect solutions that matter."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=150&section=footer" width="100%"/>
+
+---
 
 <p align="center">
-  <a href="mailto:daleabila003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Dale_Abila-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dale-abila-portfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dale-andrew-abila-242924234/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dale_Abila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<sub>⚡ Powered by passion, precision, and countless cups of coffee ☕</sub><br>
+<sub>🌟 Building tomorrow's digital infrastructure today</sub><br>
+<sub>💻 Made with 💜 by Dale Andrew Abila</sub>
 </p>
-
-<div align="center">
-
-**AI Integration & Automation Engineer · Full Stack .NET Developer**
 
 </div>

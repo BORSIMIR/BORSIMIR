@@ -1,10 +1,5 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dale%20Andrew%20Abila&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Integration%20%26%20Automation%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer&descAlignY=58&descSize=17"
-  width="100%"
-/>
-
 ### Building practical AI-assisted business systems, backend integrations, and workflow automation.
 
 <p>
@@ -158,14 +153,11 @@ My strongest value is combining traditional software engineering with modern AI 
 
 ## 📊 GitHub
 
-<div align="center">
+I use GitHub for personal projects, technical experiments, utilities, and demonstrations of my software engineering work.
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BORSIMIR&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-  height="150"
-/>
+My professional work at Sheds n Homes, Beltontotoku Philippines, and Honda Philippines includes private/internal business systems, so production source code and company repositories are not publicly exposed.
 
-</div>
+👉 [View my public repositories](https://github.com/BORSIMIR?tab=repositories)
 
 ---
 
